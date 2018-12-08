@@ -1,0 +1,2 @@
+python artibuff_scrape.py
+python tier_list_scrape.py
